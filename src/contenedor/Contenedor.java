@@ -21,8 +21,6 @@ public class Contenedor <T> {
         objeto=null;
         return resultado;
     }
-    T append(T[] objeto,T objeto){
-        
-    }
+  
     
 }//end class
